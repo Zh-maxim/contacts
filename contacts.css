@@ -364,6 +364,10 @@ a{
 }
 
 @media (max-width: 190px) {
+    .menuNavElementBurger {
+        display: block;
+    }
+    
     .navOfPhoneLink{
     font-size: 15px;
     }
