@@ -361,4 +361,7 @@ a{
     .menuNavElementBurger {
         display: block;
     }
+    .contactsBlocks{
+    display: block;
+}
 }
