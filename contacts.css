@@ -364,37 +364,3 @@ a{
 }
 
 
-
-
-
-
-
-@media (max-width:190px) {
-    ._mainBlock {
-        min-width: 180px;
-    }
-    .game {
-        font-size: 45px;
-    }
-    .imagesOfMan {
-        margin-left: 0px;
-    }
-    .contact {
-        width: 85px;
-        height: 85px;
-    }
-    .game {
-        height: 15%;
-    }
-    .game2 {
-        height: 5px;
-        font-size: 60px;
-    }
-    menuNavElement7 {
-        display: none;
-    }
-    .phoneNav {
-        min-width: 180px;
-    }
-}
-
