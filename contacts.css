@@ -359,26 +359,5 @@ a{
     }
     .menuNavElementBurger {
         display: block;
-    }
-    .contactsBlocks{
-        display: block;
-        margin: 0 auto;
-        margin-top: 100px;
-        
-}
-    .blockOfCont{
-    width: 300px;
-    height: 100%;
-        margin: 0 auto;
-        padding-top: 50px;
- 
-}
-}
-@media (min-width: 190px) {
-.metaBlock{
-    width: 80%;
-    }
-    ._mainBlock{
-    width: 180px;
-    }
+    }    
 }
