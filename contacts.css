@@ -369,12 +369,12 @@ a{
 
 
 
-@media (max-width:500px) {
+@media (max-width:190px) {
     ._mainBlock {
-        min-width: 530px;
+        min-width: 180px;
     }
     .game {
-        font-size: 55px;
+        font-size: 45px;
     }
     .imagesOfMan {
         margin-left: 0px;
@@ -394,7 +394,7 @@ a{
         display: none;
     }
     .phoneNav {
-        min-width: 530px;
+        min-width: 180px;
     }
 }
 
